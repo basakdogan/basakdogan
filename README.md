@@ -1,4 +1,4 @@
-[![Masterhead] https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineerscanada.ca%2Fnews-and-events%2Fnews%2Fengineering-regulators-reiterate-licensure-requirements-for-those-using-software-engineer-and-other-it-titles&psig=AOvVaw3vmPkPMd9xbPwacf0yPbJ3&ust=1707038295290000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjEi6zrjoQDFQAAAAAdAAAAABAJ
+[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineerscanada.ca%2Fnews-and-events%2Fnews%2Fengineering-regulators-reiterate-licensure-requirements-for-those-using-software-engineer-and-other-it-titles&psig=AOvVaw3vmPkPMd9xbPwacf0yPbJ3&ust=1707038295290000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjEi6zrjoQDFQAAAAAdAAAAABAJ)
 
 <h1 align="center">Hi 👋, I'm Başak Akdoğan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
