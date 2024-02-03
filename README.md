@@ -1,4 +1,4 @@
-[![MasterHead](https://engineerscanada.ca/sites/default/files/2022-08/software-engineering-4x2.png)
+![MasterHead](https://engineerscanada.ca/sites/default/files/2022-08/software-engineering-4x2.png)
 
 <h1 align="center">Hi 👋, I'm Başak Akdoğan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
